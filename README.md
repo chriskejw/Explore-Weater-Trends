@@ -14,27 +14,6 @@
 
 - udacity.com
 
-# Step 1: Extract data using SQL
-- **To get the city data of Singapore, I used country = ‘Singapore’ because I know that Singapore is a city state, so the city of Singapore is Singapore.**
-
-  SELECT * 
-  FROM city_data 
-  WHERE country = 'Singapore'
-  
-- **To get the global data**
-
-  SELECT * 
-  FROM global_data 
-
-# Step 2: Download CSV of both data
-
-# Step 3: Use Python and Jupyter notebook 
-- Key Considerations & Steps Taken: 
-  1. Impute the mean for any missing temperature values in the Singapore data;
-  2. Calculate the 7 years moving averages for both datasets;
-  3. Remove the preceding years in the global data to align it with the Singapore data; 
-  4. Overlay both graphs to obtain a better visualisation for comparison and analysis.
-
 # Author
 
 - Chris Ke
