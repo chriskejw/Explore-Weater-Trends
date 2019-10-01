@@ -1,2 +1,3 @@
-# Explore-Weater-Trends
-Udacity Data Analyst Nanodegree Project 1
+# Udacity Data Analyst Nanodegree Project 1
+## Explore Weater Trends
+
